@@ -1,0 +1,16 @@
+.linebreak{
+    background-color: black;
+    width: 100%;
+}
+
+.lightbulb{
+    background-color: darkgrey;
+    width: 50%;
+}
+
+/* .displayCoin{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: grey;
+} */
